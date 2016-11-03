@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII" standalone="no"?>
-<!DOCTYPE family-tree PUBLIC "-//Portland State University//DTD CS410J Family Tree//EN" "http://www.cs.pdx.edu/~whitlock/dtds/familytree.dtd">
+<!DOCTYPE family-tree PUBLIC >
 <family-tree>
   <person gender="male" id="45">
     <first-name>O&#316;egs</first-name>
